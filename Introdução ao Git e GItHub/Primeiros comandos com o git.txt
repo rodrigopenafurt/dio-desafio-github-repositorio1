@@ -1,0 +1,17 @@
+Primeiros comandos com o Git
+
+Iniciar o Git
+git init
+Deve ser configurado a conta antes
+git config --global user.email "seuemail"
+git config --global user.name nome de usuário
+
+
+git add
+git commit
+
+flag -a (mostra os arquivos ocultos).  ex:  ls -a
+
+
+git add *
+git commit -m "commit inicial"
